@@ -1,0 +1,10 @@
+D:\almanca projesio\proje\paspaparola\bin\Debug\paspaparola.exe.config
+D:\almanca projesio\proje\paspaparola\bin\Debug\paspaparola.exe
+D:\almanca projesio\proje\paspaparola\bin\Debug\paspaparola.pdb
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.csproj.AssemblyReference.cache
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.Form1.resources
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.Properties.Resources.resources
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.csproj.GenerateResource.cache
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.csproj.CoreCompileInputs.cache
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.exe
+D:\almanca projesio\proje\paspaparola\obj\Debug\paspaparola.pdb

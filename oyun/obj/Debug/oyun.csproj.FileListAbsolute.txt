@@ -1,0 +1,11 @@
+D:\almanca projesio\proje\oyun\bin\Debug\oyun.exe.config
+D:\almanca projesio\proje\oyun\bin\Debug\oyun.exe
+D:\almanca projesio\proje\oyun\bin\Debug\oyun.pdb
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.csproj.AssemblyReference.cache
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.Form1.resources
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.Form2.resources
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.Properties.Resources.resources
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.csproj.GenerateResource.cache
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.csproj.CoreCompileInputs.cache
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.exe
+D:\almanca projesio\proje\oyun\obj\Debug\oyun.pdb
